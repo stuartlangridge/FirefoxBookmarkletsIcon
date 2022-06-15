@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "FirefoxBookmarkletsIcon",
+    "name": "BookmarkletsIcon",
     "version": "1.0",
 
     "description": "Makes all your bookmarklets available from an icon",
-  "homepage_url": "https://kryogenix.org/code/FirefoxBookmarkletsIcon",
+    "homepage_url": "https://kryogenix.org/code/FirefoxBookmarkletsIcon",
     "icons": {
         "96": "icons/icon-96.png",
         "48": "icons/icon-48.png",
